@@ -1,4 +1,8 @@
-.oddnumber {
+.oddnumber, .number3 {
     background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.number3 {
+    font-size: larger;
 }
